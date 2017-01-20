@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>My Blog</title>
+	</head>
+	<body>
+		<div class="post">
+			<h1>First Post!</h1>
+			<p class="timestamp">20.01.2017, 09:54 PM</p>
+			<p>This is the first post of my new blog!</p>
+      <div style="background-color:GreenYellow;width:200px;border:1px solid black;padding:15px;">
+<p>HTML background code is actually CSS!</p>
+</div>
+		</div>
+	</body>
+</html>
